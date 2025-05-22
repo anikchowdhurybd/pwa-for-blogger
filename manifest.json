@@ -1,0 +1,24 @@
+{
+    "name": "Schema Markup Generator",
+    "short_name": "SchemaGenerator",
+    "description": "Tools for generating schema markup.",
+    "start_url": "/?utm_source=pwa_homescreen",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "ABSOLUTE_URL_TO_YOUR_192x192_ICON.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "ABSOLUTE_URL_TO_YOUR_512x512_ICON.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ]
+}
