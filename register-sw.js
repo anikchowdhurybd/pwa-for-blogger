@@ -1,4 +1,3 @@
-<script type='text/javascript'>
 //<![CDATA[
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function() {
@@ -14,4 +13,3 @@ if ('serviceWorker' in navigator) {
   console.log('PWA Service Worker: Not supported in this browser for schemamarkupgenerator.net.');
 }
 //]]>
-</script>
