@@ -1,10 +1,10 @@
 // Cloudflare Worker Script
 
 // Replace with the RAW URL of your sw.js file (e.g., from GitHub Raw or Gist Raw)
-const SW_SOURCE_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/sw.js';
+const SW_SOURCE_URL = 'https://raw.githubusercontent.com/anikchowdhurybd/pwa-for-blogger/refs/heads/main/sw.js';
 
 // Replace with the RAW URL of your manifest.json file
-const MANIFEST_SOURCE_URL = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/manifest.json';
+const MANIFEST_SOURCE_URL = 'https://raw.githubusercontent.com/anikchowdhurybd/pwa-for-blogger/refs/heads/main/manifest.json';
 
 addEventListener('fetch', event => {
   const url = new URL(event.request.url);
