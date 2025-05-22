@@ -9,16 +9,16 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "ABSOLUTE_URL_TO_YOUR_192x192_ICON.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtYzQW8zUFs0ZETrI4JDl8xKexzmIXOWLo0u9ilKJPdnX-usq9ugn1Q-1UlXXddaZUP5vuP-eSnv2TaNeq8io7WQK37ieZ4N2owSTzTxlnboO1RB0oPQxrJat9nw_alnJUPYdU-LvOc1lltXvNgODghgMJrG-vV4Wbm9zVrrz3CSH-xw/s1600/Schema-markup-generator%20(1).png",
             "type": "image/png",
             "sizes": "192x192",
             "purpose": "any maskable"
         },
         {
-            "src": "ABSOLUTE_URL_TO_YOUR_512x512_ICON.png",
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Rg4EIz_D8Y33_oWwVEdJRyG1ZuM8mUKjwaZelZW-5vf6ykmFJ8Z-c56xJ62lm0lZc951vsa-L8UB0Els4ZP83FoxetML2WYUZq3RJU9qR4CezvNI9weWKE1sRUNhQU2dh2SxRAy7YYarO0kFhxXurFnzEVIOJRTZV_Dd0_a5cxFtPg/s1600/Schema-markup-generator.png",
             "type": "image/png",
             "sizes": "512x512",
             "purpose": "any maskable"
         }
-    ]
+    
 }
